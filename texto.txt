@@ -1,0 +1,1 @@
+Teste de voz. Este é um exemplo simples para verificar o funcionamento do sistema de conversão de texto em fala.
